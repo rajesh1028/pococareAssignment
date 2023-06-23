@@ -17,13 +17,13 @@ A Doctor's Appointment Booking System - lets you Register and Login and be able 
 # Backend deployed using RENDER https://pocobackend.onrender.com/
 
 # Home Page
-![image](https://github.com/rajesh1028/pococareAssignment/frontend/images/assets/indexpage)
+![image](https://github.com/rajesh1028/pococareAssignment/frontend/images/assets/indexpage.png)
 
 # Click on Sign Up to Register
-![image](https://github.com/rajesh1028/pococareAssignment/frontend/images/assets/indexpage)
+![image](https://github.com/rajesh1028/pococareAssignment/frontend/images/assets/indexpage.png)
 
 # Click on Login to signin
-![image](https://github.com/rajesh1028/pococareAssignment/frontend/images/assets/indexpage)
+![image](https://github.com/rajesh1028/pococareAssignment/frontend/images/assets/indexpage.png)
 
 
  You can also click For VIDEO CONSULTATION which will redirect to another page which is a ROOM where Patient and Doctor can have a meet via Video**
@@ -72,8 +72,6 @@ api - https://pococare1.onrender.com/
 | DELETE | api/appointments/delete/:id | To delete appointment
 | GET | api/appointments/docapp/:id | To get the appointments based on specific Doctor | 200
 | GET | api/appointments/patapp/:id | To get the appointments based on specific Patient | 200
-
-
 
 
 
