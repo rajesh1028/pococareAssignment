@@ -1,5 +1,11 @@
 # Pococare_assignment
 
+### User Account: rajeshkaruppusamy@gmail.com
+### Password    : rajesh
+
+### Doctor Account: doctor@gmail.com
+### Password      : doctor
+
 A Doctor's Appointment Booking System - lets you Register and Login and be able to view Doctors, book appointment, view/reschedule, delete appointments and receive mail once appointment is confirmed.
 
 
