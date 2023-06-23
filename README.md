@@ -17,23 +17,13 @@ A Doctor's Appointment Booking System - lets you Register and Login and be able 
 # Backend deployed using RENDER https://pocobackend.onrender.com/
 
 # Home Page
-![image](https://github.com/DhaanuI/Pococare_assignment/assets/112754832/ffc52ffb-cc7b-48c6-8aec-cf771747e08b)
+![image](https://github.com/rajesh1028/pococareAssignment/frontend/images/assets/indexpage)
 
 # Click on Sign Up to Register
-![image](https://github.com/DhaanuI/Pococare_assignment/assets/112754832/fa1540bf-e61b-4a20-aa09-0b3aae72ed93)
+![image](https://github.com/rajesh1028/pococareAssignment/frontend/images/assets/indexpage)
 
 # Click on Login to signin
-
-![image](https://github.com/DhaanuI/Pococare_assignment/assets/112754832/55acee29-25ed-43a8-b918-9362cb833a80)
-
-# Patient Dashboard - Authenticated Route 
-![image](https://github.com/DhaanuI/Pococare_assignment/assets/112754832/43c24b4a-126b-4e0c-8345-f0aa88927182)
-
-# Appointments  - Authenticated Route - You can also EDIT & DELETE your appointments
-![image](https://github.com/DhaanuI/Pococare_assignment/assets/112754832/2398e8c2-2204-4595-bbe0-d4035e59fb2f)
-
-![image](https://github.com/DhaanuI/Pococare_assignment/assets/112754832/0d266a7b-6265-47dd-bd84-8057238956cb)
-
+![image](https://github.com/rajesh1028/pococareAssignment/frontend/images/assets/indexpage)
 
 
  You can also click For VIDEO CONSULTATION which will redirect to another page which is a ROOM where Patient and Doctor can have a meet via Video**
